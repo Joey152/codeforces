@@ -1,3 +1,6 @@
+// 4A
+// solved: 1
+
 use std::io;
 
 fn main() {

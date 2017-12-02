@@ -1,0 +1,6 @@
+[package]
+name = "theatre_square"
+version = "0.1.0"
+authors = ["Joey Chan <joseph.chan@ryerson.ca>"]
+
+[dependencies]
