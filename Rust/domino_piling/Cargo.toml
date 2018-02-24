@@ -1,0 +1,6 @@
+[package]
+name = "domino_piling"
+version = "0.1.0"
+authors = ["Joey Chan <joseph.chan@ryerson.ca>"]
+
+[dependencies]
